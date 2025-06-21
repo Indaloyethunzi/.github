@@ -1,6 +1,3 @@
-# .github
-
-
 # Indaloyethunzi Organization
 
 Welcome to the Indaloyethunzi GitHub organization. A South African creative tech studio crafting tools and tales from the shadows.
